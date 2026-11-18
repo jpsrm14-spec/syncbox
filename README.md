@@ -14,3 +14,11 @@ Ou direto pelas [versões](../../releases/latest):
 - **Windows** (Premiere Pro 2024+, Windows 10 e 11): `SyncBox-Windows.zip`
 
 Abra o zip, rode `Instalar Sync Box` e, no Premiere, vá em **Janela › Extensões › Sync Box**.
+
+## DaVinci Resolve (beta)
+
+- **Mac**: `SyncBox-Resolve-Mac.zip` · **Windows**: `SyncBox-Resolve-Windows.zip`
+- Abra pelo menu **Workspace › Scripts › Sync Box** e escolha a pasta do projeto na primeira vez.
+- O Resolve precisa do Python 3 (64 bits) instalado para rodar scripts.
+
+Também tem **Verificar projeto** e o modo **Same Day Edit**, nas duas versões.
